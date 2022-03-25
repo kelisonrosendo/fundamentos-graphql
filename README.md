@@ -35,5 +35,4 @@ npm run dev
 ```
 
 #### 🛠 Tecnologias
-
-[GraphQL](https://graphql.org/) + [Node](https://nodejs.org/) + [React](https://pt-br.reactjs.org/)
+<a href="https://graphql.org/" target="_blank">GraphQL</a> + <a href="https://nodejs.org/" target="_blank">Node</a> + <a href="https://pt-br.reactjs.org/" target="_blank">React</a>
